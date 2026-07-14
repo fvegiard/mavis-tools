@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "playwright-msedge": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--browser",
+        "msedge",
+        "--cdp-endpoint",
+        "http://127.0.0.1:9223",
+        "--caps",
+        "vision"
+      ],
+      "description": "Microsoft Playwright MCP connected to your running Edge (start with start-edge-debug.bat). Provides 22+ tools: navigate, click, fill, screenshot, eval JS, network inspection, storage, etc. Uses accessibility tree snapshots for deterministic actions."
+    }
+  }
+}
