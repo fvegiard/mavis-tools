@@ -1,0 +1,8 @@
+﻿=== dump-kahnawake ===
+step 1: navigate to Outlook ?q=Kahnawake
+step 2: enumerate search results
+found 0 items
+dump saved: C:\Users\fvegi\.mavis\workspace\mcp-control\.runs\kahnawake-dump.json
+message drafted: .runs/kahnawake-message.md
+
+NEXT: navigate to Mavis on MaxClaw, paste this into the chat, submit.

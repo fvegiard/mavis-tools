@@ -1,0 +1,237 @@
+﻿=== Outlook inspection ===
+clicked item index: -1
+{
+  "url": "https://outlook.cloud.microsoft/mail/?q=Kahnawake",
+  "title": "Courriel - Francis Végiard - Outlook",
+  "headings": [],
+  "candidates": [
+    {
+      "attr": "aria-label",
+      "value": "To Do",
+      "tag": "DIV",
+      "text": "",
+      "classes": "___77lcry0 f10pi13n"
+    },
+    {
+      "attr": "aria-label",
+      "value": "To Do",
+      "tag": "BUTTON",
+      "text": "",
+      "classes": "fui-Button r1f29ykk ___1c1syfs f1brlhvm f10xn8zz f136y8j8 f1sl3k7w f18ktai2 f12c"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Répondre à tous",
+      "tag": "BUTTON",
+      "text": "Répondre àtous\nRépondez à ce message. (Maj+R / Ctrl+Maj+R)",
+      "classes": "fui-Button r1f29ykk ms-Button ms-ButtonNext ___peu1c80 f12clzc2 f1brlhvm f10xn8z"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Grâce aux étapes rapides, vous pouvez effectuer plusieurs actions sur un message en un seul clic. Par exemple, vous pouvez définir le déplacement d’un message vers un dossier spécifique, l’ajouter à un indicateur et le marquer comme lu.",
+      "tag": "BUTTON",
+      "text": "\nÉtapes rapides",
+      "classes": "ms-Button ms-Button--action ms-Button--command root-164"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Marquer tous les éléments comme lus",
+      "tag": "BUTTON",
+      "text": "Marquer tous les éléments commelus\nMarquer tous les messages de ce dossier comme lus.",
+      "classes": "fui-Button r1f29ykk ms-Button ms-ButtonNext ___1co81e4 f12clzc2 f1brlhvm f10xn8z"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Liste des messages",
+      "tag": "DIV",
+      "text": "Prioritaire\nAutres\n\n\n\n\nPar Date\n\nÉpinglé\n\nD\nDRComptabilite\nReçus manquants carte de crédit juin 2026\n\n\nV\nVendorPM\nYou have 1 unread messages \ud83d",
+      "classes": "C1EJK LyMTI hmUtu css-181"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Liste des messages Vous n’avez sélectionné aucun élément",
+      "tag": "DIV",
+      "text": "\nÉpinglé\n\nD\nDRComptabilite\nReçus manquants carte de crédit juin 2026\n\n\nV\nVendorPM\nYou have 1 unread messages 💬\n\nS1\nSecrétaire ÉÉ #150\nFwd: Allia",
+      "classes": "Cz7T5"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Épinglés A répondu DRComptabilite Reçus manquants carte de crédit juin 2026 Jeu 07-02 Bonjour Francis, Peux-tu m'envoyer les reçus suivants qui ont passés sur ta carte de juin : FRANCIS VEGIARD FVEGIARD@DREELECTRIQUE.COM 2026-06-01 2026-06-02 OLLAMA TORONTO 28,77 $ CAD FRANCIS VEGIARD FVEGIARD@DREELECTRIQUE.CO Vous n’avez sélectionné aucun élément",
+      "tag": "DIV",
+      "text": "D\nDRComptabilite\nReçus manquants carte de crédit juin 2026\n\n",
+      "classes": "jGG6V gDC9O UWKUc"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "D",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Épinglés VendorPM You have 1 unread messages 💬 Mar 06-30 You have 1 new messages Here are some of your latest messages: Pino Dattoli — Pure Industrial \" Salut Francis, See all messages VendorPM, Inc. 30 Adelaide St E, 12th Floor, Toronto, ON, Canada Want to get in touch with a Vendo",
+      "tag": "DIV",
+      "text": "V\nVendorPM\nYou have 1 unread messages 💬\n",
+      "classes": "jGG6V gDC9O UWKUc"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "V",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Comporte des pièces jointes Épinglés Secrétaire ÉÉ #150 Fwd: Alliance 144 : AC - Tenue du 27 avril 6026 2026-04-20 Forwarded message - De : Loge Alliance No 144 <logealliance144@gmail.com> Date: dim. 19 avr. 2026 à 14:32 Subject: Alliance 144 : AC - Tenue du 27 avril 6026 To: En pièce jointe Fraternellement:. Jacques Montreuil",
+      "tag": "DIV",
+      "text": "S1\nSecrétaire ÉÉ #150\nFwd: Alliance 144 : AC - Tenue du 27 avril 6026\n\n",
+      "classes": "jGG6V gDC9O UWKUc"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "S1",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "JP",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "SR",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Stéphane Robert Qmd Lun 19:41 Bonjour à vous tous, j’aimerais que vous me preniez quelques minutes. Et oui je vous demande quelque chose qui peut perdurer j’aurais besoin de ceci pour au plus tard mercredi après-midi je veux que vous prenez toutes les e-mails de comme communication qu",
+      "tag": "DIV",
+      "text": "SR\nStéphane Robert\nQmd\nLun 19:41\nBonjour à vous tous, j’aimerais que vous me preniez quelques minutes. Et oui je vous demande quelque chose qui peut p",
+      "classes": "jGG6V gDC9O UWKUc"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "SR",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "DR",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "PD",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "David Rouleau TR : Procam Construction Inc. -  Addenda sur projet en cours - Report de date - Consignaction de Mirabel *** BSDQ *** Lun 13:28 Nous ne pouvons pas obtenir d’aperçu.",
+      "tag": "DIV",
+      "text": "DR\nDavid Rouleau\nTR : Procam Construction Inc. - Addenda sur projet en cours - Report de date - Consignaction de Mirabel *** BSDQ ***\nLun 13:28\nNous n",
+      "classes": "jGG6V gDC9O UWKUc"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "DR",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "DANIEL.MARIER@forces.gc.ca RE: Itinéraire de déplacement vers le CEC Valcartier - Cadet Loic Végiard et Cadette Princess Spirit Mikayla Tippenhauer - Départ le 05 juillet 08h30. Lun 13:12 Bonjour à vous deux Conformément à ce que nous avons discuté ensemble lors du départ le 6 juillet dernier, le retour sera le 17 juillet au stationnement des autobus, 444 rue de Gentilly Longueuil, Qc, J4H 3X7 à 15 :50. Bien sûr, si vous choisissez de",
+      "tag": "DIV",
+      "text": "D\nDANIEL.MARIER@forces.gc.ca\nRE: Itinéraire de déplacement vers le CEC Valcartier - Cadet Loic Végiard et Cadette Princess Spirit Mikayla Tippenhauer ",
+      "classes": "jGG6V gDC9O UWKUc"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "D",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "DR",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Groupe Richer | Gazon & Pavé 💥🚧 C'est l'heure de la vente des vacances de la construction! Lun 12:34 25% de rabais sur tout en magasin et en ligne! ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌",
+      "tag": "DIV",
+      "text": "G\nGroupe Richer | Gazon & Pavé\n💥🚧 C'est l'heure de la vente des vacances de la construction!\nLun 12:34\n25% de rabais sur tout en magasin et en ligne",
+      "classes": "jGG6V gDC9O UWKUc"
+    },
+    {
+      "attr": "aria-label",
+      "value": "Sélectionner un message",
+      "tag": "DIV",
+      "text": "G",
+      "classes": "xc0ZS WNvBZ TBtad q0f8X aDFCa DoCKv vbEPJ"
+    },
+    {
+      "attr": "title",
+      "value": "Historique des conversations – 1 élément (0 non lu)",
+      "tag": "DIV",
+      "text": "\nHistorique des conversations",
+      "classes": "C2IG3 ORnNd oTkSL QreOD phvtt z6Kje kPj5N"
+    },
+    {
+      "attr": "title",
+      "value": "secretaireetoileecossaise150@gmail.com",
+      "tag": "SPAN",
+      "text": "Secrétaire ÉÉ #150",
+      "classes": ""
+    }
+  ],
+  "ids": [
+    "app",
+    "appContainer",
+    "id__4",
+    "OwaTitleBar",
+    "owaAppLauncherBtn_container",
+    "owaBranding_container",
+    "searchBoxColumnContainerId",
+    "searchBoxId-Mail",
+    "searchBoxIconId-Mail",
+    "topSearchInput",
+    "searchBoxAnchorId",
+    "headerButtonsRegionId",
+    "owaTeamsBtn_container",
+    "owaTimePanelBtn_container",
+    "owaActivityFeedButton_container",
+    "owaSettingsBtn_container",
+    "owa-me-control-container",
+    "avatar-r6o",
+    "avatar-r6o__initials",
+    "mainApp",
+    "LeftRail",
+    "ddea774c-382b-47d7-aab5-adc2139a802b",
+    "8cbeb86f-83e1-43b5-aaba-cd3514322f0b",
+    "b5abf2ae-c16b-4310-8f8a-d3bcdb52f162",
+    "355fbd79-3ba2-4554-8f2d-0300fde91f30",
+    "218795fc-272e-49c0-98b1-a5d648c2d3c7",
+    "1f8c20f5-d70f-4f8e-93e1-31d8fce0c8c9",
+    "377c982d-9686-450e-9a7c-22aeaf1bc162",
+    "0d5c91ee-5be2-4b79-81ed-23e6c4580427",
+    "RibbonRoot"
+  ]
+}
